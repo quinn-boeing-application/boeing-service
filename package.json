@@ -1,0 +1,11 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -u exports test/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
